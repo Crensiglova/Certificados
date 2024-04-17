@@ -1,2 +1,2 @@
 # Certificados
-repositório para armazenar meus cerrificados de cursos , palestras e hackathons
+repositório para armazenar meus certificados de cursos , palestras e hackathons.
